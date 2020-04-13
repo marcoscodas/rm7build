@@ -69,7 +69,7 @@ export USER_MAIL='user@email.edu'
 
 # Include proprietary files, downloaded automatically from github.com/TheMuppets/
 # Only some branches are supported
-export INCLUDE_PROPRIETARY=true
+export INCLUDE_PROPRIETARY=false
 
 # Mount an overlay filesystem over the source dir to do each build on a clean source
 export BUILD_OVERLAY=false
