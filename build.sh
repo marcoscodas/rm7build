@@ -44,7 +44,7 @@ export CCACHE_SIZE=50G
 
 # Environment for the LineageOS branches name
 # See https://github.com/LineageOS/android_vendor_cm/branches for possible options
-export BRANCH_NAME='v1-oreo'
+export BRANCH_NAME='v1-pie'
 
 # Environment for the device list (separate by comma if more than one)
 # eg. DEVICE_LIST=hammerhead,bullhead,angler
