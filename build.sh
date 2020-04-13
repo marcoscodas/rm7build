@@ -48,7 +48,7 @@ export BRANCH_NAME='v1-oreo'
 
 # Environment for the device list (separate by comma if more than one)
 # eg. DEVICE_LIST=hammerhead,bullhead,angler
-export DEVICE_LIST='s2'
+export DEVICE_LIST='lavender'
 
 # Release type string
 export RELEASE_TYPE='UNOFFICIAL'
