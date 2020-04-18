@@ -2,6 +2,6 @@
 <manifest>
 <project name="marcoscodas/android_device_xiaomi_lavender" path="device/xiaomi/lavender" remote="github" />
 <project name="marcoscodas/kernel_xiaomi_lavender" path="kernel/xiaomi/lavender" remote="github" />
-<project name="marcoscodas/vendor_xiaomi_lavender" path="vendor/xiaomi/lavender" remote="github" />
+<project name="AndroidBlobs/vendor_xiaomi_lavender" path="vendor/xiaomi/lavender" remote="github" revision="lavender-user-9-PKQ1.180904.001-9.8.22-release-keys" />
 <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" />
 </manifest>
